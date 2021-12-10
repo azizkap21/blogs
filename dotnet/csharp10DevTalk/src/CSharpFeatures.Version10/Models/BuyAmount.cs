@@ -13,22 +13,17 @@ namespace CSharpFeatures.Version10.Models
             Amount = 0;
             Currency = string.Empty;
         }
-        public decimal Amount { get; set; }
 
-        public string Currency { get; set; }
-
-
-    }
-    public class Addable<int>
-    {
-        public static R operator +(int t1, int t2)
+        public BuyAmount(int amount, string currency)
         {
-            return t1 + t2; 
+            Amount = amount;
+            Currency = currency;
         }
 
-    }
+        public decimal Amount { get; init; }
 
-    public interface IAddable<T> where T : IAddable<T>
-    {
+        public string Currency { get; init; }
+
+
     }
 }

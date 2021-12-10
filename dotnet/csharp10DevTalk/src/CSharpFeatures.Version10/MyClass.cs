@@ -10,11 +10,11 @@ namespace CSharpFeatures.Version10
 {
     public class MyClass
     {
-        public string MyMethod(Employee employee)
+        public string MyMethod(Person person)
         {
-            ArgumentNullException.ThrowIfNull(employee);
+            Utility.ThrowIfNull(person.FirstName);
 
-            return string.Concat(employee.FirstName, employee.LastName);
+            return string.Concat(person.FirstName, " ", person.LastName);
 
         }
     }

@@ -1,4 +1,7 @@
 ﻿
+using System;
+using System.Collections.Generic;
+
 namespace CSharpFeatures.Version9.Models
 {
     public class Person

@@ -16,9 +16,9 @@ static void DoSomething()
 
 public class MyClass
 {
-    public string FullName([]string firstName, string? lastName)
+    public string FullName(string firstName, string? lastName)
     {
-
+        return firstName + " " + lastName;
     }
 }
 
