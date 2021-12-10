@@ -1,0 +1,15 @@
+C:\Users\azizk\OneDrive\Projects\DevTalk\CSharpFeatures\CSharpFeatures.Version10\bin\Debug\net6.0\CSharpFeatures.Version10.exe
+C:\Users\azizk\OneDrive\Projects\DevTalk\CSharpFeatures\CSharpFeatures.Version10\bin\Debug\net6.0\CSharpFeatures.Version10.deps.json
+C:\Users\azizk\OneDrive\Projects\DevTalk\CSharpFeatures\CSharpFeatures.Version10\bin\Debug\net6.0\CSharpFeatures.Version10.runtimeconfig.json
+C:\Users\azizk\OneDrive\Projects\DevTalk\CSharpFeatures\CSharpFeatures.Version10\bin\Debug\net6.0\CSharpFeatures.Version10.dll
+C:\Users\azizk\OneDrive\Projects\DevTalk\CSharpFeatures\CSharpFeatures.Version10\bin\Debug\net6.0\ref\CSharpFeatures.Version10.dll
+C:\Users\azizk\OneDrive\Projects\DevTalk\CSharpFeatures\CSharpFeatures.Version10\bin\Debug\net6.0\CSharpFeatures.Version10.pdb
+C:\Users\azizk\OneDrive\Projects\DevTalk\CSharpFeatures\CSharpFeatures.Version10\obj\Debug\net6.0\CSharpFeatures.Version10.csproj.AssemblyReference.cache
+C:\Users\azizk\OneDrive\Projects\DevTalk\CSharpFeatures\CSharpFeatures.Version10\obj\Debug\net6.0\CSharpFeatures.Version10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azizk\OneDrive\Projects\DevTalk\CSharpFeatures\CSharpFeatures.Version10\obj\Debug\net6.0\CSharpFeatures.Version10.AssemblyInfoInputs.cache
+C:\Users\azizk\OneDrive\Projects\DevTalk\CSharpFeatures\CSharpFeatures.Version10\obj\Debug\net6.0\CSharpFeatures.Version10.AssemblyInfo.cs
+C:\Users\azizk\OneDrive\Projects\DevTalk\CSharpFeatures\CSharpFeatures.Version10\obj\Debug\net6.0\CSharpFeatures.Version10.csproj.CoreCompileInputs.cache
+C:\Users\azizk\OneDrive\Projects\DevTalk\CSharpFeatures\CSharpFeatures.Version10\obj\Debug\net6.0\CSharpFeatures.Version10.dll
+C:\Users\azizk\OneDrive\Projects\DevTalk\CSharpFeatures\CSharpFeatures.Version10\obj\Debug\net6.0\ref\CSharpFeatures.Version10.dll
+C:\Users\azizk\OneDrive\Projects\DevTalk\CSharpFeatures\CSharpFeatures.Version10\obj\Debug\net6.0\CSharpFeatures.Version10.pdb
+C:\Users\azizk\OneDrive\Projects\DevTalk\CSharpFeatures\CSharpFeatures.Version10\obj\Debug\net6.0\CSharpFeatures.Version10.genruntimeconfig.cache

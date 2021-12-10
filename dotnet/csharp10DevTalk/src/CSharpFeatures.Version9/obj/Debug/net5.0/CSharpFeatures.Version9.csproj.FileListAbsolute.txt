@@ -1,0 +1,16 @@
+C:\Users\azizk\OneDrive\Projects\DevTalk\CSharpFeatures\CSharpFeatures.Version9\bin\Debug\net5.0\CSharpFeatures.Version9.exe
+C:\Users\azizk\OneDrive\Projects\DevTalk\CSharpFeatures\CSharpFeatures.Version9\bin\Debug\net5.0\CSharpFeatures.Version9.deps.json
+C:\Users\azizk\OneDrive\Projects\DevTalk\CSharpFeatures\CSharpFeatures.Version9\bin\Debug\net5.0\CSharpFeatures.Version9.runtimeconfig.json
+C:\Users\azizk\OneDrive\Projects\DevTalk\CSharpFeatures\CSharpFeatures.Version9\bin\Debug\net5.0\CSharpFeatures.Version9.runtimeconfig.dev.json
+C:\Users\azizk\OneDrive\Projects\DevTalk\CSharpFeatures\CSharpFeatures.Version9\bin\Debug\net5.0\CSharpFeatures.Version9.dll
+C:\Users\azizk\OneDrive\Projects\DevTalk\CSharpFeatures\CSharpFeatures.Version9\bin\Debug\net5.0\ref\CSharpFeatures.Version9.dll
+C:\Users\azizk\OneDrive\Projects\DevTalk\CSharpFeatures\CSharpFeatures.Version9\bin\Debug\net5.0\CSharpFeatures.Version9.pdb
+C:\Users\azizk\OneDrive\Projects\DevTalk\CSharpFeatures\CSharpFeatures.Version9\obj\Debug\net5.0\CSharpFeatures.Version9.csproj.AssemblyReference.cache
+C:\Users\azizk\OneDrive\Projects\DevTalk\CSharpFeatures\CSharpFeatures.Version9\obj\Debug\net5.0\CSharpFeatures.Version9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azizk\OneDrive\Projects\DevTalk\CSharpFeatures\CSharpFeatures.Version9\obj\Debug\net5.0\CSharpFeatures.Version9.AssemblyInfoInputs.cache
+C:\Users\azizk\OneDrive\Projects\DevTalk\CSharpFeatures\CSharpFeatures.Version9\obj\Debug\net5.0\CSharpFeatures.Version9.AssemblyInfo.cs
+C:\Users\azizk\OneDrive\Projects\DevTalk\CSharpFeatures\CSharpFeatures.Version9\obj\Debug\net5.0\CSharpFeatures.Version9.csproj.CoreCompileInputs.cache
+C:\Users\azizk\OneDrive\Projects\DevTalk\CSharpFeatures\CSharpFeatures.Version9\obj\Debug\net5.0\CSharpFeatures.Version9.dll
+C:\Users\azizk\OneDrive\Projects\DevTalk\CSharpFeatures\CSharpFeatures.Version9\obj\Debug\net5.0\ref\CSharpFeatures.Version9.dll
+C:\Users\azizk\OneDrive\Projects\DevTalk\CSharpFeatures\CSharpFeatures.Version9\obj\Debug\net5.0\CSharpFeatures.Version9.pdb
+C:\Users\azizk\OneDrive\Projects\DevTalk\CSharpFeatures\CSharpFeatures.Version9\obj\Debug\net5.0\CSharpFeatures.Version9.genruntimeconfig.cache
